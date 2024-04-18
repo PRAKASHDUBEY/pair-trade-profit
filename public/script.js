@@ -1,5 +1,5 @@
-const URL = "http://localhost:8080";
-// const URL = "https://pair-trade.onrender.com"
+// const URL = "http://localhost:8080";
+const URL = "https://pair-trade.onrender.com"
 
 var info;
 
